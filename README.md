@@ -36,4 +36,4 @@ Powerful **Rider Boost** developer toolkit providing database management, API te
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.
+> This repository is provided for educational and utility purposes only. Use at your own discretion. 
